@@ -8,7 +8,7 @@ import android.view.animation.Transformation
 
 
 /**
- * @author：byd666 on 2018/4/27 14:49
+ * @author：byd666 on 2018/ic4/27 14:49
  */
 class Rotate3dAnimation : Animation {
     private  var mFromDegrees : Float? =null

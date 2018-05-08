@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+   android:oneshot="false">
+    <item android:duration="50" android:drawable="@drawable/ic2"/>
+    <item android:duration="50" android:drawable="@drawable/ic3"/>
+    <item android:duration="50" android:drawable="@drawable/ic4"/>
+    <item android:duration="50" android:drawable="@drawable/ic5"/>
+    <item android:duration="50" android:drawable="@drawable/ic6"/>
+    <item android:duration="50" android:drawable="@drawable/ic7"/>
+    <item android:duration="50" android:drawable="@drawable/ic8"/>
+    <item android:duration="50" android:drawable="@drawable/ic9"/>
+    <item android:duration="50" android:drawable="@drawable/ic2"/>
+    <item android:duration="50" android:drawable="@drawable/ic3"/>
+    <item android:duration="50" android:drawable="@drawable/ic4"/>
+    <item android:duration="50" android:drawable="@drawable/ic5"/>
+    <item android:duration="50" android:drawable="@drawable/ic6"/>
+    <item android:duration="50" android:drawable="@drawable/ic7"/>
+    <item android:duration="50" android:drawable="@drawable/ic8"/>
+    <item android:duration="50" android:drawable="@drawable/ic9"/>
+    <item android:duration="50" android:drawable="@drawable/ic2"/>
+    <item android:duration="50" android:drawable="@drawable/ic3"/>
+    <item android:duration="50" android:drawable="@drawable/ic4"/>
+    <item android:duration="50" android:drawable="@drawable/ic5"/>
+    <item android:duration="50" android:drawable="@drawable/ic6"/>
+    <item android:duration="50" android:drawable="@drawable/ic7"/>
+    <item android:duration="50" android:drawable="@drawable/ic8"/>
+    <item android:duration="50" android:drawable="@drawable/ic9"/>
+    <item android:duration="50" android:drawable="@drawable/ic2"/>
+    <item android:duration="50" android:drawable="@drawable/ic3"/>
+    <item android:duration="50" android:drawable="@drawable/ic4"/>
+    <item android:duration="50" android:drawable="@drawable/ic5"/>
+    <item android:duration="50" android:drawable="@drawable/ic6"/>
+    <item android:duration="50" android:drawable="@drawable/ic7"/>
+    <item android:duration="50" android:drawable="@drawable/ic8"/>
+    <item android:duration="50" android:drawable="@drawable/ic9"/>
+</animation-list>

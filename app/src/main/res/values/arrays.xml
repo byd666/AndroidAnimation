@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="frame_anim">
+        <item>@drawable/ic2</item>
+        <item>@drawable/ic3</item>
+        <item>@drawable/ic4</item>
+        <item>@drawable/ic5</item>
+        <item>@drawable/ic6</item>
+        <item>@drawable/ic7</item>
+        <item>@drawable/ic8</item>
+        <item>@drawable/ic9</item>
+        <item>@drawable/ic2</item>
+        <item>@drawable/ic3</item>
+        <item>@drawable/ic4</item>
+        <item>@drawable/ic5</item>
+        <item>@drawable/ic6</item>
+        <item>@drawable/ic7</item>
+        <item>@drawable/ic8</item>
+        <item>@drawable/ic9</item>
+        <item>@drawable/ic2</item>
+        <item>@drawable/ic3</item>
+        <item>@drawable/ic4</item>
+        <item>@drawable/ic5</item>
+        <item>@drawable/ic6</item>
+        <item>@drawable/ic7</item>
+        <item>@drawable/ic8</item>
+        <item>@drawable/ic9</item>
+        <item>@drawable/ic2</item>
+        <item>@drawable/ic3</item>
+        <item>@drawable/ic4</item>
+        <item>@drawable/ic5</item>
+        <item>@drawable/ic6</item>
+        <item>@drawable/ic7</item>
+        <item>@drawable/ic8</item>
+        <item>@drawable/ic9</item>
+    </string-array>
+</resources>
