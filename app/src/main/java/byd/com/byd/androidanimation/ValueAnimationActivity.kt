@@ -9,9 +9,6 @@ import android.view.View
 import android.widget.Button
 
 class ValueAnimationActivity : AppCompatActivity(), View.OnClickListener{
-
-
-
     private var view: View ?=null
     private var btn1: Button ?=null
     private var btn2: Button ?=null
